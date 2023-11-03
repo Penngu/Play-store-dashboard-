@@ -14,4 +14,5 @@ The dashboard aims to provide a holistic view of the Google Play store for effec
 # Key Takeaways 
 1. Subway Surfers had the highest Installs, followed by Google News and Hangouts.
 2. In 2018, avera﻿ge installs increased by 9x as compared to previous year.
-3. 
+3. Identified list of apps across 33 categories on play store.
+4. Top 3 categories in Apps were Family, Game and Tools.
